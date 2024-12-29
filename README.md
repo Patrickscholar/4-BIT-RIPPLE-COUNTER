@@ -106,7 +106,7 @@ endmodule
 <img width="1455" alt="Screenshot 2024-12-26 at 9 00 18 PM" src="https://github.com/user-attachments/assets/21272993-bd67-453b-bea4-e94ef6b5d540" />
 
 **TIMING DIGRAMS FOR 4 Bit Ripple Counter**
-<img width="1470" alt="Screenshot 2024-12-26 at 8 58 30 PM" src="https://github.com/user-attachments/assets/3f53dd44-4788-4303-829a-23f5dd8920ce" />
+![Screenshot 2024-12-23 114914](https://github.com/user-attachments/assets/95477b89-02fc-4cbc-b401-659e757b1c06)
 
 **RESULTS**
 Sucessfully implemented  4 Bit Ripple Counter using verilog and validated their functionality using their functional tables
